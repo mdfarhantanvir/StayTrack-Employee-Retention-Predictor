@@ -52,10 +52,10 @@ StayTrack-Employee-Retention/
 - **Visualization & Analysis**: `Employee_Retention_Model_Final.ipynb` contains exploratory analysis and model insights.
 
 ## Key Features
-✅ Predict employee attrition using machine learning models.  
-✅ Identify key factors influencing retention.  
-✅ Provide actionable insights to HR teams.  
-✅ Interactive visualizations and data-driven decision-making.
+1. Predict employee attrition using machine learning models.  
+2. Identify key factors influencing retention.  
+3. Provide actionable insights to HR teams.  
+4. Interactive visualizations and data-driven decision-making.
 
 ## Contributing
 We welcome contributions! Please read `CONTRIBUTING.md` for guidelines.
