@@ -58,7 +58,7 @@ StayTrack-Employee-Retention/
 4. Interactive visualizations and data-driven decision-making.
 
 ## Contributing
-We welcome contributions! Please read `CONTRIBUTING.md` for guidelines.
+I welcome contributions! Please read `CONTRIBUTING.md` for guidelines.
 
 ## License
 This project is licensed under the MIT License - see the `LICENSE` file for details.
