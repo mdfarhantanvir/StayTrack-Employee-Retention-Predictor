@@ -1,9 +1,8 @@
 # StayTrack-Employee-Retention-Predictor
-StayTrack is a machine learning tool that predicts employee attrition and provides insights into key factors affecting retention. It helps HR teams make data-driven decisions to improve workforce stability and engagement
-
 
 ## Overview
-StayTrack is a machine learning-powered employee retention predictor that helps organizations identify employees at risk of leaving and provides actionable insights to improve retention strategies.
+StayTrack is a machine learning-powered employee retention predictor that helps organizations identify employees at risk of leaving and provides actionable insights to improve retention strategies. It helps HR teams make data-driven decisions to improve workforce stability and engagement
+
 
 ## Project Structure
 ```
