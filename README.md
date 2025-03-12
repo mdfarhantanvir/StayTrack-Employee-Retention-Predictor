@@ -33,7 +33,7 @@ StayTrack-Employee-Retention/
 ## Installation & Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/StayTrack-Employee-Retention.git
+   git clone https://github.com/mdfarhantanvir/StayTrack-Employee-Retention.git
    cd StayTrack-Employee-Retention
    ```
 2. Install dependencies:
