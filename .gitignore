@@ -1,0 +1,20 @@
+# Ignore Python cache and compiled files
+__pycache__/
+*.pyc
+
+# Ignore virtual environment
+venv/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore large model files (Use Git LFS if needed)
+models/*.pkl
+models/*.h5
+
+# Ignore dataset backups
+data/*.csv
+data/*.xlsx
+
+# Ignore environment variables
+.env
